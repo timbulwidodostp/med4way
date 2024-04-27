@@ -3,6 +3,8 @@
 
 Investigate mediating and interactive mechanisms using the four way effect decomposition Use med4way With STATA 18
 
+https://www.youtube.com/watch?v=5KHY42kRong
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
